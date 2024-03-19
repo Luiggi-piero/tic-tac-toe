@@ -1,7 +1,7 @@
 # Tres en raya
 ### React + Vite
 
-![Screenshot_1](https://github.com/Luiggi-piero/tres-en-raya/assets/86317658/fc1b2311-c183-45b7-96bf-f86edf5efaa3)
+![1](https://github.com/Luiggi-piero/tres-en-raya/assets/86317658/fa09c19a-f6ec-417e-b77d-44bee5236b2a)
 
 Currently, two official plugins are available:
 
